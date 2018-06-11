@@ -1,5 +1,5 @@
 # jftest
-A Getting Started Tutorial from GitHub
+Deleted the wording that used to be here, just testing out functionality to gain clarity on how all of this works. 
 
 Hi Humans!
 
